@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+This is a website that helps citizens to quickly, easily and accurately carry out registration procedures for temporary absence without much effort, meeting the needs of public administration digital transformation.
 
-Template Name: Reveal
-Template URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Residence-backend : https://github.com/hailv1209/Residence-backend
+Residence-admin : https://github.com/hailv1209/Residence-admin
